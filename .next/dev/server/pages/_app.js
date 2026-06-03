@@ -1,0 +1,4 @@
+var R=require("../chunks/ssr/[turbopack]_runtime.js")("server/pages/_app.js")
+R.c("server/chunks/ssr/[root-of-the-server]__07b3s5v._.js")
+R.m("[project]/Developer/Personal Portfolio/node_modules/next/app.js [ssr] (ecmascript)")
+module.exports=R.m("[project]/Developer/Personal Portfolio/node_modules/next/app.js [ssr] (ecmascript)").exports

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 13, "column": 0}, "map": {"version":3,"sources":["file:///Users/aryanpatil/Developer/Personal%20Portfolio/src/app/favicon.ico.mjs%20%28structured%20image%20object%29"],"sourcesContent":["import src from \"IMAGE\";\nexport default { src, width: 256, height: 256 }\n"],"names":["src","width","height"],"mappings":";;;;AAAA;;uCACe;IAAEA,KAAAA,8KAAG;IAAEC,OAAO;IAAKC,QAAQ;AAAI"}},
+    {"offset": {"line": 28, "column": 0}, "map": {"version":3,"sources":["file:///Users/aryanpatil/Developer/Personal%20Portfolio/src/app/page.tsx"],"sourcesContent":["import { Navbar } from \"@/components/layout/navbar\";\nimport { Footer } from \"@/components/layout/footer\";\nimport { Hero } from \"@/features/home/components/hero\";\nimport { RecruiterSnapshot } from \"@/features/home/components/recruiter-snapshot\";\n\nexport default function Home() {\n  return (\n    <div className=\"min-h-screen flex flex-col\">\n      <Navbar />\n      <main className=\"flex-1\">\n        <Hero />\n        <RecruiterSnapshot />\n      </main>\n      <Footer />\n    </div>\n  );\n}\n"],"names":["Home","className","Navbar","Hero","RecruiterSnapshot","Footer"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAKe,SAASA;IACtB,qBACE,kRAAC;QAAIC,WAAU;;0BACb,kRAACC;;;;;0BACD,kRAAC;gBAAKD,WAAU;;kCACd,kRAACE;;;;;kCACD,kRAACC;;;;;;;;;;;0BAEH,kRAACC;;;;;;;;;;;AAGP"}}]
+}
