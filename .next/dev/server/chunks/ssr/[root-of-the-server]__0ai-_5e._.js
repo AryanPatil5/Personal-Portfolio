@@ -407,122 +407,160 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portf
 ;
 function Hero() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-        className: "relative w-full min-h-[calc(100vh-64px)] flex items-center justify-center pt-12 md:pt-0",
+        className: "relative w-full min-h-[calc(100vh-64px)] flex items-center justify-center overflow-hidden",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "absolute inset-0 bg-gradient-to-b from-blue-50/50 via-white to-white pointer-events-none"
-            }, void 0, false, {
+                className: "absolute inset-0 bg-white pointer-events-none",
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "absolute top-0 right-0 w-96 h-96 bg-blue-50/50 rounded-full blur-3xl -translate-y-1/2 translate-x-1/2"
+                    }, void 0, false, {
+                        fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/hero.tsx",
+                        lineNumber: 9,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "absolute bottom-0 left-0 w-96 h-96 bg-gray-50/50 rounded-full blur-3xl translate-y-1/2 -translate-x-1/2"
+                    }, void 0, false, {
+                        fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/hero.tsx",
+                        lineNumber: 10,
+                        columnNumber: 9
+                    }, this)
+                ]
+            }, void 0, true, {
                 fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/hero.tsx",
                 lineNumber: 8,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "relative z-10 mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 text-center",
+                className: "relative z-10 mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 text-center py-16 md:py-0",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "space-y-8",
+                        className: "space-y-6 md:space-y-8",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "space-y-4",
                                 children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        className: "text-sm md:text-base font-semibold text-blue-600 uppercase tracking-wide mb-4",
-                                        children: "Welcome"
-                                    }, void 0, false, {
-                                        fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/hero.tsx",
-                                        lineNumber: 15,
-                                        columnNumber: 13
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                        className: "text-4xl md:text-7xl font-bold text-gray-900 leading-tight tracking-tight",
-                                        children: "Aryan Patil"
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "inline-block",
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                            className: "text-xs md:text-sm font-semibold text-blue-600 uppercase tracking-widest px-4 py-2 bg-blue-50/80 rounded-full border border-blue-100/50",
+                                            children: "Software Engineer"
+                                        }, void 0, false, {
+                                            fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/hero.tsx",
+                                            lineNumber: 19,
+                                            columnNumber: 15
+                                        }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/hero.tsx",
                                         lineNumber: 18,
+                                        columnNumber: 13
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
+                                        className: "text-5xl md:text-8xl font-bold text-gray-900 leading-tight tracking-tight",
+                                        children: "Aryan Patil"
+                                    }, void 0, false, {
+                                        fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/hero.tsx",
+                                        lineNumber: 23,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/hero.tsx",
-                                lineNumber: 14,
+                                lineNumber: 17,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "text-xl md:text-3xl font-semibold text-gray-800 leading-relaxed",
-                                    children: "Software Engineer building AI, Full-Stack and Real-Time Systems."
-                                }, void 0, false, {
-                                    fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/hero.tsx",
-                                    lineNumber: 25,
-                                    columnNumber: 13
-                                }, this)
-                            }, void 0, false, {
+                                className: "space-y-4",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                        className: "text-xl md:text-4xl font-semibold text-gray-800 leading-tight max-w-3xl mx-auto",
+                                        children: "Building AI, Full-Stack and Real-Time Systems"
+                                    }, void 0, false, {
+                                        fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/hero.tsx",
+                                        lineNumber: 30,
+                                        columnNumber: 13
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "h-1 w-16 bg-gradient-to-r from-blue-600 to-blue-400 mx-auto rounded-full"
+                                    }, void 0, false, {
+                                        fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/hero.tsx",
+                                        lineNumber: 33,
+                                        columnNumber: 13
+                                    }, this)
+                                ]
+                            }, void 0, true, {
                                 fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/hero.tsx",
-                                lineNumber: 24,
+                                lineNumber: 29,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "text-base md:text-lg text-gray-600 leading-relaxed max-w-2xl mx-auto",
-                                    children: "B.Tech Computer Science & Engineering student at Pimpri Chinchwad University. Building products across AI, developer tooling, and real-time applications."
+                                    children: "B.Tech Computer Science & Engineering student at Pimpri Chinchwad University. Building products across AI, developer tooling, and real-time applications. Open to internships and engineering roles."
                                 }, void 0, false, {
                                     fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/hero.tsx",
-                                    lineNumber: 32,
+                                    lineNumber: 38,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/hero.tsx",
-                                lineNumber: 31,
+                                lineNumber: 37,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "flex flex-col sm:flex-row gap-4 justify-center pt-4",
+                                className: "flex flex-col sm:flex-row gap-3 justify-center pt-6 md:pt-8",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                         href: "/projects",
+                                        className: "inline-block",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$src$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
                                             size: "lg",
                                             variant: "primary",
+                                            className: "text-base",
                                             children: "View Projects"
                                         }, void 0, false, {
                                             fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/hero.tsx",
-                                            lineNumber: 42,
+                                            lineNumber: 48,
                                             columnNumber: 15
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/hero.tsx",
-                                        lineNumber: 41,
+                                        lineNumber: 47,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                         href: "/contact",
+                                        className: "inline-block",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$src$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
                                             size: "lg",
                                             variant: "outline",
+                                            className: "text-base",
                                             children: "Contact Me"
                                         }, void 0, false, {
                                             fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/hero.tsx",
-                                            lineNumber: 47,
+                                            lineNumber: 53,
                                             columnNumber: 15
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/hero.tsx",
-                                        lineNumber: 46,
+                                        lineNumber: 52,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/hero.tsx",
-                                lineNumber: 40,
+                                lineNumber: 46,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/hero.tsx",
-                        lineNumber: 12,
+                        lineNumber: 15,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "absolute bottom-8 left-1/2 -translate-x-1/2 animate-bounce hidden md:block",
+                        className: "absolute bottom-12 left-1/2 -translate-x-1/2 animate-bounce hidden md:block",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
                             className: "w-6 h-6 text-gray-400",
                             fill: "none",
@@ -535,23 +573,23 @@ function Hero() {
                                 d: "M19 14l-7 7m0 0l-7-7m7 7V3"
                             }, void 0, false, {
                                 fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/hero.tsx",
-                                lineNumber: 62,
+                                lineNumber: 68,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/hero.tsx",
-                            lineNumber: 56,
+                            lineNumber: 62,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/hero.tsx",
-                        lineNumber: 55,
+                        lineNumber: 61,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/hero.tsx",
-                lineNumber: 10,
+                lineNumber: 13,
                 columnNumber: 7
             }, this)
         ]
@@ -748,215 +786,160 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portf
 ;
 function RecruiterSnapshot() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-        className: "w-full bg-gray-50 py-16 md:py-24",
+        className: "w-full bg-gradient-to-b from-white via-gray-50/50 to-gray-50 py-20 md:py-32",
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
             className: "mx-auto max-w-7xl px-4 sm:px-6 lg:px-8",
             children: [
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                    className: "text-2xl md:text-3xl font-bold text-gray-900 mb-8",
-                    children: "Quick Snapshot"
-                }, void 0, false, {
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: "mb-16 md:mb-20",
+                    children: [
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                            className: "text-3xl md:text-5xl font-bold text-gray-900 mb-4",
+                            children: "Professional Overview"
+                        }, void 0, false, {
+                            fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                            lineNumber: 10,
+                            columnNumber: 11
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                            className: "text-lg text-gray-600 max-w-2xl",
+                            children: "Quick insights into my background, expertise, and current focus areas."
+                        }, void 0, false, {
+                            fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                            lineNumber: 13,
+                            columnNumber: 11
+                        }, this)
+                    ]
+                }, void 0, true, {
                     fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                    lineNumber: 8,
+                    lineNumber: 9,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "grid grid-cols-1 md:grid-cols-2 gap-8",
+                    className: "grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8",
                     children: [
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "space-y-6",
-                            children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$src$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Card"], {
-                                    variant: "flat",
-                                    padding: "lg",
-                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$src$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["CardContent"], {
-                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "space-y-4",
-                                            children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    children: [
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                            className: "text-sm font-semibold text-gray-600 uppercase tracking-wide mb-1",
-                                                            children: "Education"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                                            lineNumber: 20,
-                                                            columnNumber: 21
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                            className: "text-lg font-semibold text-gray-900",
-                                                            children: "B.Tech CSE"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                                            lineNumber: 23,
-                                                            columnNumber: 21
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                            className: "text-sm text-gray-600",
-                                                            children: "Pimpri Chinchwad University"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                                            lineNumber: 26,
-                                                            columnNumber: 21
-                                                        }, this)
-                                                    ]
-                                                }, void 0, true, {
-                                                    fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                                    lineNumber: 19,
-                                                    columnNumber: 19
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "border-t border-gray-200 pt-4",
-                                                    children: [
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                            className: "text-sm font-semibold text-gray-600 uppercase tracking-wide mb-1",
-                                                            children: "CGPA"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                                            lineNumber: 31,
-                                                            columnNumber: 21
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                            className: "text-3xl font-bold text-blue-600",
-                                                            children: "8.06"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                                            lineNumber: 34,
-                                                            columnNumber: 21
-                                                        }, this)
-                                                    ]
-                                                }, void 0, true, {
-                                                    fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                                    lineNumber: 30,
-                                                    columnNumber: 19
-                                                }, this)
-                                            ]
-                                        }, void 0, true, {
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$src$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Card"], {
+                            variant: "elevated",
+                            padding: "lg",
+                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$src$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["CardContent"], {
+                                className: "space-y-4",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "inline-flex items-center justify-center w-12 h-12 bg-blue-100/80 rounded-lg",
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
+                                            className: "w-6 h-6 text-blue-600",
+                                            fill: "none",
+                                            stroke: "currentColor",
+                                            viewBox: "0 0 24 24",
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                                strokeLinecap: "round",
+                                                strokeLinejoin: "round",
+                                                strokeWidth: 2,
+                                                d: "M12 6.253v13m0-13C6.248 6.248 2 10.494 2 15.5c0 5.006 4.248 9.252 10 9.252s10-4.246 10-9.252c0-5.006-4.248-9.247-10-9.247z"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                                                lineNumber: 29,
+                                                columnNumber: 19
+                                            }, this)
+                                        }, void 0, false, {
                                             fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                            lineNumber: 18,
+                                            lineNumber: 23,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                        lineNumber: 17,
+                                        lineNumber: 22,
                                         columnNumber: 15
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                    lineNumber: 16,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$src$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Card"], {
-                                    variant: "flat",
-                                    padding: "lg",
-                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$src$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["CardContent"], {
-                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                    className: "text-sm font-semibold text-gray-600 uppercase tracking-wide mb-1",
-                                                    children: "Experience"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                                    lineNumber: 44,
-                                                    columnNumber: 19
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                    className: "text-lg font-semibold text-gray-900",
-                                                    children: "Web Development Intern"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                                    lineNumber: 47,
-                                                    columnNumber: 19
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                    className: "text-sm text-gray-600",
-                                                    children: "Lifeline Villas"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                                    lineNumber: 50,
-                                                    columnNumber: 19
-                                                }, this)
-                                            ]
-                                        }, void 0, true, {
-                                            fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                            lineNumber: 43,
-                                            columnNumber: 17
-                                        }, this)
-                                    }, void 0, false, {
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "text-xs font-semibold text-gray-600 uppercase tracking-wider mb-2",
+                                                children: "Education"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                                                lineNumber: 38,
+                                                columnNumber: 17
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "text-lg font-semibold text-gray-900 mb-1",
+                                                children: "B.Tech CSE"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                                                lineNumber: 41,
+                                                columnNumber: 17
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "text-sm text-gray-600 mb-4",
+                                                children: "Pimpri Chinchwad University"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                                                lineNumber: 44,
+                                                columnNumber: 17
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
                                         fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                        lineNumber: 42,
+                                        lineNumber: 37,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "border-t border-gray-200 pt-4",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "text-xs font-semibold text-gray-600 uppercase tracking-wider mb-2",
+                                                children: "CGPA"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                                                lineNumber: 49,
+                                                columnNumber: 17
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "text-4xl font-bold text-blue-600",
+                                                children: "8.06"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                                                lineNumber: 52,
+                                                columnNumber: 17
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                                        lineNumber: 48,
                                         columnNumber: 15
                                     }, this)
-                                }, void 0, false, {
-                                    fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                    lineNumber: 41,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                                lineNumber: 21,
+                                columnNumber: 13
+                            }, this)
+                        }, void 0, false, {
                             fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                            lineNumber: 14,
+                            lineNumber: 20,
                             columnNumber: 11
                         }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "space-y-6",
-                            children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$src$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Card"], {
-                                    variant: "flat",
-                                    padding: "lg",
-                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$src$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["CardContent"], {
-                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "space-y-4",
-                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                        className: "text-sm font-semibold text-gray-600 uppercase tracking-wide mb-4",
-                                                        children: "Core Areas"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                                        lineNumber: 63,
-                                                        columnNumber: 21
-                                                    }, this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "flex flex-wrap gap-2",
-                                                        children: [
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$src$2f$components$2f$ui$2f$badge$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Badge"], {
-                                                                variant: "primary",
-                                                                size: "sm",
-                                                                children: "Full Stack Development"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                                                lineNumber: 67,
-                                                                columnNumber: 23
-                                                            }, this),
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$src$2f$components$2f$ui$2f$badge$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Badge"], {
-                                                                variant: "secondary",
-                                                                size: "sm",
-                                                                children: "AI Systems"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                                                lineNumber: 70,
-                                                                columnNumber: 23
-                                                            }, this),
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$src$2f$components$2f$ui$2f$badge$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Badge"], {
-                                                                variant: "info",
-                                                                size: "sm",
-                                                                children: "Real-Time Applications"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                                                lineNumber: 73,
-                                                                columnNumber: 23
-                                                            }, this)
-                                                        ]
-                                                    }, void 0, true, {
-                                                        fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                                        lineNumber: 66,
-                                                        columnNumber: 21
-                                                    }, this)
-                                                ]
-                                            }, void 0, true, {
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$src$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Card"], {
+                            variant: "elevated",
+                            padding: "lg",
+                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$src$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["CardContent"], {
+                                className: "space-y-4",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "inline-flex items-center justify-center w-12 h-12 bg-green-100/80 rounded-lg",
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
+                                            className: "w-6 h-6 text-green-600",
+                                            fill: "none",
+                                            stroke: "currentColor",
+                                            viewBox: "0 0 24 24",
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                                strokeLinecap: "round",
+                                                strokeLinejoin: "round",
+                                                strokeWidth: 2,
+                                                d: "M13 10V3L4 14h7v7l9-11h-7z"
+                                            }, void 0, false, {
                                                 fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                                lineNumber: 62,
+                                                lineNumber: 67,
                                                 columnNumber: 19
                                             }, this)
                                         }, void 0, false, {
@@ -968,77 +951,191 @@ function RecruiterSnapshot() {
                                         fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
                                         lineNumber: 60,
                                         columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "text-xs font-semibold text-gray-600 uppercase tracking-wider mb-2",
+                                                children: "Experience"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                                                lineNumber: 76,
+                                                columnNumber: 17
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "text-lg font-semibold text-gray-900 mb-1",
+                                                children: "Web Development Intern"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                                                lineNumber: 79,
+                                                columnNumber: 17
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "text-sm text-gray-600",
+                                                children: "Lifeline Villas"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                                                lineNumber: 82,
+                                                columnNumber: 17
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                                        lineNumber: 75,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "border-t border-gray-200 pt-4",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "text-xs font-semibold text-gray-600 uppercase tracking-wider mb-3",
+                                                children: "Status"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                                                lineNumber: 87,
+                                                columnNumber: 17
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "flex items-center gap-2",
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                        className: "inline-flex items-center justify-center w-2.5 h-2.5 bg-green-500 rounded-full animate-pulse"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                                                        lineNumber: 91,
+                                                        columnNumber: 19
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                        className: "text-sm font-medium text-green-700",
+                                                        children: "Open to Opportunities"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                                                        lineNumber: 92,
+                                                        columnNumber: 19
+                                                    }, this)
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                                                lineNumber: 90,
+                                                columnNumber: 17
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                                        lineNumber: 86,
+                                        columnNumber: 15
                                     }, this)
-                                }, void 0, false, {
-                                    fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                    lineNumber: 59,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$src$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Card"], {
-                                    variant: "outline",
-                                    padding: "lg",
-                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$src$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["CardContent"], {
-                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "space-y-3",
-                                            children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "flex items-center gap-2",
-                                                    children: [
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                            className: "inline-flex items-center justify-center w-2 h-2 bg-green-500 rounded-full"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                                            lineNumber: 87,
-                                                            columnNumber: 21
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                            className: "text-sm font-semibold text-gray-900",
-                                                            children: "Open to Opportunities"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                                            lineNumber: 88,
-                                                            columnNumber: 21
-                                                        }, this)
-                                                    ]
-                                                }, void 0, true, {
-                                                    fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                                    lineNumber: 86,
-                                                    columnNumber: 19
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                    className: "text-sm text-gray-600 leading-relaxed",
-                                                    children: "Open to internships and software engineering opportunities"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                                    lineNumber: 92,
-                                                    columnNumber: 19
-                                                }, this)
-                                            ]
-                                        }, void 0, true, {
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                                lineNumber: 59,
+                                columnNumber: 13
+                            }, this)
+                        }, void 0, false, {
+                            fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                            lineNumber: 58,
+                            columnNumber: 11
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$src$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Card"], {
+                            variant: "elevated",
+                            padding: "lg",
+                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$src$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["CardContent"], {
+                                className: "space-y-4",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "inline-flex items-center justify-center w-12 h-12 bg-purple-100/80 rounded-lg",
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
+                                            className: "w-6 h-6 text-purple-600",
+                                            fill: "none",
+                                            stroke: "currentColor",
+                                            viewBox: "0 0 24 24",
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                                strokeLinecap: "round",
+                                                strokeLinejoin: "round",
+                                                strokeWidth: 2,
+                                                d: "M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12a9 9 0 11-18 0 9 9 0 0118 0zm-5.36 4.64l-.707.707M9 12a3 3 0 11 6 0 3 3 0 11-6 0z"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                                                lineNumber: 110,
+                                                columnNumber: 19
+                                            }, this)
+                                        }, void 0, false, {
                                             fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                            lineNumber: 85,
+                                            lineNumber: 104,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                        lineNumber: 84,
+                                        lineNumber: 103,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "text-xs font-semibold text-gray-600 uppercase tracking-wider mb-4",
+                                                children: "Core Expertise"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                                                lineNumber: 119,
+                                                columnNumber: 17
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "flex flex-wrap gap-2",
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$src$2f$components$2f$ui$2f$badge$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Badge"], {
+                                                        variant: "primary",
+                                                        size: "sm",
+                                                        children: "Full Stack"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                                                        lineNumber: 123,
+                                                        columnNumber: 19
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$src$2f$components$2f$ui$2f$badge$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Badge"], {
+                                                        variant: "secondary",
+                                                        size: "sm",
+                                                        children: "AI Systems"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                                                        lineNumber: 126,
+                                                        columnNumber: 19
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Developer$2f$Personal__Portfolio$2f$src$2f$components$2f$ui$2f$badge$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Badge"], {
+                                                        variant: "info",
+                                                        size: "sm",
+                                                        children: "Real-Time Apps"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                                                        lineNumber: 129,
+                                                        columnNumber: 19
+                                                    }, this)
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                                                lineNumber: 122,
+                                                columnNumber: 17
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                                        lineNumber: 118,
                                         columnNumber: 15
                                     }, this)
-                                }, void 0, false, {
-                                    fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                                    lineNumber: 83,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
+                                lineNumber: 102,
+                                columnNumber: 13
+                            }, this)
+                        }, void 0, false, {
                             fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                            lineNumber: 57,
+                            lineNumber: 101,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/Developer/Personal Portfolio/src/features/home/components/recruiter-snapshot.tsx",
-                    lineNumber: 12,
+                    lineNumber: 18,
                     columnNumber: 9
                 }, this)
             ]

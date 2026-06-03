@@ -1,11 +1,1 @@
-{
-  "version": 4,
-  "routes": {},
-  "dynamicRoutes": {},
-  "notFoundRoutes": [],
-  "preview": {
-    "previewModeId": "eb3c7910dc5f0c6033402fc28d54fbb6",
-    "previewModeSigningKey": "4190e83e52f023b1de07c38f91ce260ce8f0f3c087d4f8852b2506f68c0a813c",
-    "previewModeEncryptionKey": "8e2dae04368b4d78e1d119391c81cdb8a18360d78d35e96277a4d3216a81005b"
-  }
-}
+{"version":4,"routes":{"/projects/resqnet":{},"/projects/testgen":{},"/projects/binance-futures-trading-bot":{}},"dynamicRoutes":{"/projects/[slug]":{"dataRoute":null,"dataRouteRegex":null,"fallback":null,"fallbackRevalidate":false,"fallbackSourceRoute":"/projects/[slug]","routeRegex":"^\\/projects\\/([^/]+?)(?:\\/)?$","allowHeader":[]}},"notFoundRoutes":[],"preview":{"previewModeId":"9a4daaf944a0569ae5e4b10a6f4764ff","previewModeSigningKey":"ad368cdce5481fecca16d3e683a012a066704f9de3a18baa949ac4a5155e7a7f","previewModeEncryptionKey":"00f650a74763387ec551507e0563059119e1950ea9b937dc13481271f3f24203"}}
